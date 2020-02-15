@@ -11635,10 +11635,10 @@ yarm@^0.4.0:
   resolved "https://registry.npm.taobao.org/yarm/download/yarm-0.4.0.tgz#3d9a73abee490ece77c88ebbd0929fea6f72907b"
   integrity sha1-PZpzq+5JDs53yI670JKf6m9ykHs=
 
-yarn@^1.19.1:
-  version "1.19.1"
-  resolved "https://registry.npm.taobao.org/yarn/download/yarn-1.19.1.tgz#14b92410dd1ba5bab87a12b4a3d807f4569bea97"
-  integrity sha1-FLkkEN0bpbq4ehK0o9gH9Fab6pc=
+yarn@^1.22.0:
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.0.tgz#acf82906e36bcccd1ccab1cfb73b87509667c881"
+  integrity sha512-KMHP/Jq53jZKTY9iTUt3dIVl/be6UPs2INo96+BnZHLKxYNTfwMmlgHTaMWyGZoO74RI4AIFvnWhYrXq2USJkg==
 
 yorkie@^2.0.0:
   version "2.0.0"
